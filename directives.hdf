@@ -1,7 +1,7 @@
 [Global]
 TimeZone=America/Mexico_City
 ConfigExpirationTime=2026-05-29T12:00:00
-AvailableKeyboardLayouts=latam|us|es|dvorak|us dvp
+AvailableKeyboardLayouts=latam|us|es
 DefaultKeyboardLayout=latam
 EventConfig=false
 ContestConfig=true
@@ -32,4 +32,4 @@ WallpaperSha256=824d8560d35ec070589a5b72f2da85aff38203a7f6b1aee8bae7900c608d4369
 [Event-Times]
 
 [Contest-Times]
-2025-04-18T10:55:00 2026-04-18T16:05:00
+2025-05-16T10:55:00 2026-05-16T16:05:00
