@@ -4,7 +4,7 @@ ConfigExpirationTime=2027-05-29T12:00:00
 AvailableKeyboardLayouts=latam|us|es
 DefaultKeyboardLayout=latam
 EventConfig=false
-ContestConfig=true
+ContestConfig=false
 
 [Always]
 AllowedWebsites=all
