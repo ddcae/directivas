@@ -4,7 +4,7 @@ ConfigExpirationTime=2027-05-29T12:00:00
 AvailableKeyboardLayouts=latam|us|es
 DefaultKeyboardLayout=latam
 EventConfig=false
-ContestConfig=false
+ContestConfig=true
 
 [Always]
 AllowedWebsites=all
@@ -22,14 +22,14 @@ Bookmarks=huronOS^https://huronos.org|
 Wallpaper=default
 
 [Contest]
-AllowedWebsites=https://boca.icpcmexico.org/|
+AllowedWebsites=https://verano2026.contest.codeforces.com/|
 AllowUsbStorage=false
 AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|
-Bookmarks={Contest^https://boca.icpcmexico.org/}|
+Bookmarks={Contest^https://verano2026.contest.codeforces.com/}|
 Wallpaper=https://directives.huronos.org/icpcmx/gpmx2023_round1_contest_mode.png
 WallpaperSha256=824d8560d35ec070589a5b72f2da85aff38203a7f6b1aee8bae7900c608d4369
 
 [Event-Times]
 
 [Contest-Times]
-2026-05-16T10:55:00 2026-05-16T16:05:00
+2026-08-21T10:55:00 2026-08-21T16:05:00
