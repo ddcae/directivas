@@ -1,7 +1,7 @@
 [Global]
 TimeZone=America/Mexico_City
-ConfigExpirationTime=2027-05-29T12:00:00
-AvailableKeyboardLayouts=latam|us|es
+ConfigExpirationTime=never
+AvailableKeyboardLayouts=latam|us|es|dvorak
 DefaultKeyboardLayout=latam
 EventConfig=false
 ContestConfig=true
@@ -9,27 +9,28 @@ ContestConfig=true
 [Always]
 AllowedWebsites=all
 AllowUsbStorage=true
-AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|
-Bookmarks={Contest^https://boca.icpcmexico.org}|{BOCA_User_Manual^https://directives.huronos.org/icpcmx/boca_manual_teams.en.html}|
-Wallpaper=https://directives.huronos.org/icpcmx/gpmx2023_round1_always_mode.png
-WallpaperSha256=c382c20791695176be47257ec924c9df39e40534d4ac02fb23c4f3c823334fd8
-
-[Event]
-AllowedWebsites=all
-AllowUsbStorage=true
-AvailableSoftware=internet/chromium
-Bookmarks=huronOS^https://huronos.org|
+AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
+Bookmarks={CMS OMI^https://cms.olimpiadadeinformatica.org.mx}|{CMS OMIPS^https://cms.omips.olimpiadadeinformatica.org.mx}|{REKAREL^https://rekarel.olimpiadadeinformatica.org.mx}|{KARELBUG^https://karelbug.olimpiadadeinformatica.org.mx}|{REFERENCIA C++^https://cms.olimpiadadeinformatica.org.mx/contest/docs/cpp/index.html}|{REFERENCIA REKAREL-KARELBUG^https://cms.omips.olimpiadadeinformatica.org.mx/contest/docs/kcode/}|{CPP SHELL^https://cpp.sh/}
 Wallpaper=default
 
-[Contest]
-AllowedWebsites=https://boca.icpcmexico.org|
+[Event]
+AllowedWebsites=cpp.sh|www.googletagmanager.com|boca.icpcmexico.org|cms.olimpiadadeinformatica.org.mx
 AllowUsbStorage=false
 AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|
-Bookmarks={Contest^https://boca.icpcmexico.org}|
-Wallpaper=https://directives.huronos.org/icpcmx/gpmx2023_round1_contest_mode.png
-WallpaperSha256=824d8560d35ec070589a5b72f2da85aff38203a7f6b1aee8bae7900c608d4369
+Bookmarks={BOCA^http://boca.icpcmexico.org}|{CPP SHELL^https://cpp.sh/}|{REFERENCIA C++^https://cms.olimpiadadeinformatica.org.mx/contest/docs/cpp/index.html}
+Wallpaper=https://www.olimpiadadeinformatica.org.mx/OMI/OMI/archivos/huronOS/omi_x_icpcmx_event.jpg
+WallpaperSha256=3D0456253D9DECD323ABAC4FB5BFCC481136BD77E3E6AF1E60E00637FB533EF4
+
+[Contest]
+AllowedWebsites=cpp.sh|www.googletagmanager.com|boca.icpcmexico.org|cms.olimpiadadeinformatica.org.mx
+AllowUsbStorage=false
+AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|
+Bookmarks={BOCA^http://boca.icpcmexico.org}|{CPP SHELL^https://cpp.sh/}|{REFERENCIA C++^https://cms.olimpiadadeinformatica.org.mx/contest/docs/cpp/index.html}
+Wallpaper=https://www.olimpiadadeinformatica.org.mx/OMI/OMI/archivos/huronOS/omi_x_icpcmx_contest.jpg
+WallpaperSha256=A75C05B844DEEB116032B5725E0D8E240F5E6EE6216C5B884811F8A4B1E34AEB
 
 [Event-Times]
+2025-10-03T00:00:00 2025-10-06T23:59:59
 
 [Contest-Times]
-2026-09-12T10:55:00 2026-09-12T16:05:00
+2026-10-07T08:54:00 2026-10-08T14:30:00
