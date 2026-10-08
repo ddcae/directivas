@@ -26,8 +26,8 @@ AllowedWebsites=cpp.sh|www.googletagmanager.com|boca.icpcmexico.org|cms.olimpiad
 AllowUsbStorage=false
 AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|
 Bookmarks={BOCA^http://boca.icpcmexico.org}|{CPP SHELL^https://cpp.sh/}|{REFERENCIA C++^https://cms.olimpiadadeinformatica.org.mx/contest/docs/cpp/index.html}
-Wallpaper=https://www.olimpiadadeinformatica.org.mx/OMI/OMI/archivos/huronOS/omi_x_icpcmx_contest.jpg
-WallpaperSha256=A75C05B844DEEB116032B5725E0D8E240F5E6EE6216C5B884811F8A4B1E34AEB
+Wallpaper=https://raw.githubusercontent.com/ddcae/directivas/refs/heads/main/FONDO_PANTALLA_OMI_1920x1080.png
+WallpaperSha256=C56BC21059D804CAADE07E801EAF25AF3EAD2FCAEC351F4986FC25D7EF1777F2
 
 [Event-Times]
 2025-10-03T00:00:00 2025-10-06T23:59:59
