@@ -22,10 +22,10 @@ Wallpaper=https://www.olimpiadadeinformatica.org.mx/OMI/OMI/archivos/huronOS/omi
 WallpaperSha256=3D0456253D9DECD323ABAC4FB5BFCC481136BD77E3E6AF1E60E00637FB533EF4
 
 [Contest]
-AllowedWebsites=cpp.sh|www.googletagmanager.com|cms.olimpiadadeinformatica.org.mx|ide.olimpiadadeinformatica.org.mx
+AllowedWebsites=cpp.sh|www.googletagmanager.com|cms.olimpiadadeinformatica.org.mx/OMI2026_d1|ide.olimpiadadeinformatica.org.mx
 AllowUsbStorage=false
 AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|
-Bookmarks={COMI_IDE^https://ide.olimpiadadeinformatica.org.mx}|{CPP_SHELL^https://cpp.sh/}|{CMS^https://cms.olimpiadadeinformatica.org.mx}
+Bookmarks={Examen^https://cms.olimpiadadeinformatica.org.mx/OMI2026_d1}|{COMI_IDE^https://ide.olimpiadadeinformatica.org.mx}|{CPP_SHELL^https://cpp.sh/}
 Wallpaper=https://raw.githubusercontent.com/ddcae/directivas/refs/heads/main/FONDO_PANTALLA_OMI_1920x1080.png
 WallpaperSha256=C56BC21059D804CAADE07E801EAF25AF3EAD2FCAEC351F4986FC25D7EF1777F2
 
